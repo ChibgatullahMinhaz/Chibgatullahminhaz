@@ -5,7 +5,8 @@
 I’m a passionate developer with a strong foundation in **JavaScript**, **React**, and **MERN stack**. I’ve built a variety of web applications and tools, and I’m always excited to learn and tackle new challenges.
 
 🔹 **Skills & Technologies:**  
-- **Frontend:** React, HTML, CSS, JavaScript  
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Design Tools:** Figma, (I convert **Figma designs** into responsive code.)
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Version Control:** Git, GitHub  
