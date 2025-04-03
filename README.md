@@ -1,19 +1,30 @@
-# 👋 Hi, I'm Chibgatullah Minhaz!  
-💻 **Frontend & MERN Stack Developer** | 🚀 Passionate about building web applications  
+# 👋 Hi, I'm Chibgatullah Minhaz!
 
-- 🔹 I specialize in **JavaScript, React, and MERN stack** development.  
-- 🔹 Always learning and building projects to improve my skills.  
-- 🔹 Open to collaboration and new opportunities.  
+🚀 **Full-Stack Developer** | 💻 **Frontend & MERN Stack Enthusiast** | 🧑‍💻 **JavaScript Expert**  
 
-📫 **Let's connect!** 🚀
+I’m a passionate developer with a strong foundation in **JavaScript**, **React**, and **MERN stack**. I’ve built a variety of web applications and tools, and I’m always excited to learn and tackle new challenges.
+
+🔹 **Skills & Technologies:**  
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Version Control:** Git, GitHub  
+
+🔹 I am passionate about creating **dynamic, responsive, and user-friendly applications**. I enjoy **solving complex problems** and continually improving my skills through hands-on experience.  
+
+🔹 Currently exploring **Open Source Projects** and contributing to the developer community.
+
+🚀 **Let's Collaborate:**  
+I’m open to freelance work, contributing to exciting projects, and always looking for new opportunities to expand my knowledge and grow as a developer.
+
+📫 **Get in touch**: Feel free to reach out to me for any collaboration or to discuss ideas. I'm always excited to connect with like-minded developers.
+
 
 
 ![I'm web application developer](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 
-Love to learn new skills always😊
 
-<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
