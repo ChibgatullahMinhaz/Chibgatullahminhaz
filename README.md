@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Chibgatullah Minhaz</h1>
+# 👋 Hi, I'm Chibgatullah Minhaz!  
+💻 **Frontend & MERN Stack Developer** | 🚀 Passionate about building web applications  
+
+- 🔹 I specialize in **JavaScript, React, and MERN stack** development.  
+- 🔹 Always learning and building projects to improve my skills.  
+- 🔹 Open to collaboration and new opportunities.  
+
+📫 **Let's connect!** 🚀
+
 
 ![I'm web application developer](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
