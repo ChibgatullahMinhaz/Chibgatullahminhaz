@@ -9,6 +9,7 @@ I’m a passionate developer with a strong foundation in **JavaScript**, **React
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Version Control:** Git, GitHub  
+- **Programming Languages:** Java, Python, JavaScript, TypeScript  
 
 
 🚀 **Let's Collaborate:**  
