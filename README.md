@@ -6,7 +6,7 @@ I’m a passionate developer with a strong foundation in **JavaScript**, **React
 
 🔹 **Skills & Technologies:**  
 - **Frontend:** React, HTML, CSS, JavaScript
-- **Design Tools:** Figma, (I convert **Figma designs** into responsive code.)
+- **Design Tools:** Figma, (I convert **Figma designs** into Code.)
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Version Control:** Git, GitHub  
