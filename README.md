@@ -10,9 +10,6 @@ I’m a passionate developer with a strong foundation in **JavaScript**, **React
 - **Database:** MongoDB  
 - **Version Control:** Git, GitHub  
 
-🔹 I am passionate about creating **dynamic, responsive, and user-friendly applications**. I enjoy **solving complex problems** and continually improving my skills through hands-on experience.  
-
-🔹 Currently exploring **Open Source Projects** and contributing to the developer community.
 
 🚀 **Let's Collaborate:**  
 I’m open to freelance work, contributing to exciting projects, and always looking for new opportunities to expand my knowledge and grow as a developer.
