@@ -49,7 +49,7 @@ I’m open to freelance work, contributing to exciting projects, and always look
 
 ## 🔝 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibgatullahminhaz&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chibgatullahminhaz&layout=compact&theme=tokyonight)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chibgatullahminhaz&show_icons=true&count_private=true)  
