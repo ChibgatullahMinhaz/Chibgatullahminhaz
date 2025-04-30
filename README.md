@@ -47,6 +47,11 @@ I’m open to freelance work, contributing to exciting projects, and always look
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chibgatullahminhaz)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🔝 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibgatullahminhaz&layout=compact&theme=tokyonight)
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chibgatullahminhaz&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/chibgatullahminhaz/contributions?format=svg&private=true)  
