@@ -7,11 +7,13 @@ I’m a passionate developer with a strong foundation in **JavaScript**, **React
 🔹 **Skills & Technologies:**  
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Frameworks & Libraries:** Tailwind CSS, Bootstrap, React.js, AOS
-- **Design Tools:** Figma, (I convert **Figma designs** into Code.)
+- **Design Tools:** Canva, Figma, (I convert **Figma designs** into Code.)
 - **Backend & BaaS:** Node.js, Express.js, Firebase
 - **Database:** MongoDB  
 - **Version Control:** Git, GitHub  
-- **Programming Languages:** Java, Python, JavaScript, TypeScript  
+- **Programming Languages:** Java, Python, JavaScript, TypeScript
+- **Dev Tools:** MongoDB Compass, Chrome DevTools, Postman, NPM, VS Code, Netlify, Vercel, Firebase Hosting, GitHub Pages
+
 
 
 🚀 **Let's Collaborate:**  
