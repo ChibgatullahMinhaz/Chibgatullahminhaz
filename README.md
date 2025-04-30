@@ -43,9 +43,21 @@ I’m open to freelance work, contributing to exciting projects, and always look
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+
+
+## 🌐 Connect with me:
+
+[GitHub](https://github.com/chibgatullahminhaz) | [LinkedIn](#) | [Facebook](#) | [Instagram](#) | [YouTube](#)
+
+
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=chibgatullahminhaz&theme=onedark)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=chibgatullahminhaz)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chibgatullahminhaz)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔝 Top Languages
 
@@ -54,9 +66,18 @@ I’m open to freelance work, contributing to exciting projects, and always look
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chibgatullahminhaz&show_icons=true&count_private=true)  
 
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chibgatullahminhaz&show_icons=true&theme=tokyonight)
+
+
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/chibgatullahminhaz/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/chibgatullahminhaz)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=chibgatullahminhaz)  
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chibgatullahminhaz&theme=tokyonight)
 
