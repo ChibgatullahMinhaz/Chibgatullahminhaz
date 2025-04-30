@@ -24,18 +24,12 @@ I’m open to freelance work, contributing to exciting projects, and always look
 
 
 
+## 🛠️ Currently Working On:
 
-
-<p align="left">
-</p>
-
-
-<h3 align="left">Working On:</h3>
-
-- 🔭 I’m currently working on learning new skills
-- 🌱 I’m currently learning Java, JavaScript,TypeScript, Pyhton
-- 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with on yout project
+- 🔭 Learning new skills  
+- 🌱 Exploring Java, JavaScript, TypeScript, Python  
+- 👯 Looking to collaborate on GitHub  
+- 🤝 Open to helping with your project 
 
 <h3 align="left">Connect with me:</h3>
 
@@ -56,7 +50,6 @@ I’m open to freelance work, contributing to exciting projects, and always look
 ![trophy](https://github-profile-trophy.vercel.app/?username=chibgatullahminhaz&theme=onedark)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chibgatullahminhaz)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🔝 Top Languages
@@ -76,7 +69,6 @@ I’m open to freelance work, contributing to exciting projects, and always look
 
 ![GitHub metrics](https://metrics.lecoq.io/chibgatullahminhaz)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=chibgatullahminhaz)  
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chibgatullahminhaz&theme=tokyonight)
