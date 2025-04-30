@@ -64,4 +64,8 @@ I’m open to freelance work, contributing to exciting projects, and always look
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chibgatullahminhaz&theme=tokyonight)
 
 
+---
 
+## Vaunt Badge
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/chibgatullahminhaz/contributions?format=svg&private=true)
