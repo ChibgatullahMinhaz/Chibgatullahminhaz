@@ -6,7 +6,7 @@ I’m a passionate developer with a strong foundation in **JavaScript**, **React
 
 🔹 **Skills & Technologies:**  
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Frameworks & Libraries:** Tailwind CSS, Bootstrap, React.js, AOS
+- **Frameworks & Libraries:** Tailwind CSS, Bootstrap, React.js, AOS, Framer Motion
 - **Design Tools:** Canva, Figma, (I convert **Figma designs** into Code.)
 - **Backend & BaaS:** Node.js, Express.js, Firebase
 - **Database:** MongoDB  
