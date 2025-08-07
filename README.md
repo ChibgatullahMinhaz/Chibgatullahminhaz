@@ -12,9 +12,10 @@
 I’m a passionate developer with a strong foundation in **JavaScript**, **React**, and **MERN stack**. I love building modern web applications and constantly strive to improve my skills through learning and collaboration.
 
 ### 🔍 Currently Exploring:
-- Working on a **Adda Caffe**
-- Learning **Next.js** for server-side rendering
-- Contributing to **Open Source Projects**
+- Working on a **Freelance Project**
+- Learning **React + TypeScript**
+- I have plan to expanding my development skills in **Backend and React Native**
+- I help people build **web applications**.
 
 
 ---
