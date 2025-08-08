@@ -86,6 +86,11 @@ I’m a passionate developer with a strong foundation in **JavaScript**, **React
 
 ---
 
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChibgatullahMinhaz&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
+
+
+
 🚀 **Let's Collaborate:**  
 I’m open to freelance work, contributing to exciting projects, and always looking for new opportunities to expand my knowledge and grow as a developer.
 
