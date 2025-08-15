@@ -13,8 +13,8 @@ I’m a passionate developer with a strong foundation in **JavaScript**, **React
 
 ### 🔍 Currently Exploring:
 - Working on a **Freelance Project**
-- Learning **React + TypeScript**
-- I have plan to expanding my development skills in **Backend and React Native**
+- Learning **React.Js + TypeScript + Next.js**
+- I have plan to expanding my development skills in **Backend**
 - I help people build **web applications**.
 
 
