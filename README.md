@@ -82,7 +82,7 @@ I’m a passionate developer with a strong foundation in **JavaScript**, **React
 |-------------------|----------------------------------|----------------|----------------|
 | **Computer Operator** | M/S M Aziz Enterprise | Jun 2022 – Jun 2024 | Chittagong, Bangladesh |
 | **Backend Node.js Developer (Part-Time)** | Real Time Solution | Jun 2025 – Present | Dhaka, Bangladesh |
-| **Freelance Developer (Project-Based Outsourcing)** | Self-employed / Remote Clients | 2025 – Present | Worldwide 🌍 |
+| **Freelance Developer** | Self-employed / Remote Clients | 2025 – Present | Worldwide 🌍 |
 
 ---
 
