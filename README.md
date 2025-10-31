@@ -11,14 +11,16 @@
 
 I’m a passionate developer with a strong foundation in **JavaScript**, **React**, and **MERN stack**. I love building modern web applications and constantly strive to improve my skills through learning and collaboration.
 
-### 🔍 Currently Exploring:
-- Working on a **Freelance Project**
-- Learning **React.Js + TypeScript + Next.js**
-- I have plan to expanding my development skills in **Backend**
-- I help people build **web applications**.
+### 🔍 Currently Exploring
 
+- Working on **Real-World Projects** that solve everyday problems  
+- Learning **React.js**, **TypeScript**, **Next.js** and **Many More**  for modern front-end development  
+- Expanding my knowledge into **Backend Development** (Node.js, Express, MongoDB,Go Lang, AWS, Docker, AI Agent etc.)  
+- Helping others build **scalable and responsive web applications**  
+- Continuously improving my **problem-solving** and **clean code** practices  
 
 ---
+
 
 ## 🛠️ Skills & Technologies
 
@@ -74,8 +76,13 @@ I’m a passionate developer with a strong foundation in **JavaScript**, **React
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chibgatullahminhaz&show_icons=true&count_private=true&theme=tokyonight)
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chibgatullahminhaz&theme=tokyonight)
+## 💼 Employment History
+
+| 🧑‍💻 **Position** | 🏢 **Institute / Organization** | ⏰ **Duration** | 📍 **Location** |
+|-------------------|----------------------------------|----------------|----------------|
+| **Computer Operator** | M/S M Aziz Enterprise | Jun 2022 – Jun 2024 | Chittagong, Bangladesh |
+| **Backend Node.js Developer (Part-Time)** | Real Time Solution | Jun 2025 – Present | Dhaka, Bangladesh |
+| **Freelance Developer (Project-Based Outsourcing)** | Self-employed / Remote Clients | 2025 – Present | Worldwide 🌍 |
 
 ---
 
