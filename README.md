@@ -81,9 +81,9 @@ I’m a passionate developer with a strong foundation in **JavaScript**, **React
 | 🧑‍💻 **Position** | 🏢 **Institute / Organization** | ⏰ **Duration** | 📍 **Location** |
 |-------------------|----------------------------------|----------------|----------------|
 | **Computer Operator** | M/S M Aziz Enterprise | Jun 2022 – Jun 2024 | Chittagong, Bangladesh |
-| **Backend Node.js Developer** | Real Time Solution | Jun 2025 – Present | Dhaka, Bangladesh |
+| **Backend Node.js Developer** | Real Time Solution | Jun 2025 – Dec 2025 | Dhaka, Bangladesh |
 | **Freelance Developer** | Self-employed / Remote Clients | 2025 – Present | Worldwide 🌍 |
-| **Co-Founder & CTO** | taqwateach.bd.com | 2025 – Present |  mugda, Dhaka, Bangladesh |
+
 
 ---
 
