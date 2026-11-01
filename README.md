@@ -1,107 +1,128 @@
+<div align="center">
 
-![Banner](https://github.com/ChibgatullahMinhaz/Chibgatullahminhaz/blob/main/%2B--01825105554%20%20hello%40reallygreatsite.com%20%20reallygreatsite.com.png)
+<img src="https://github.com/ChibgatullahMinhaz/Chibgatullahminhaz/blob/main/%2B--01825105554%20%20hello%40reallygreatsite.com%20%20reallygreatsite.com.png" width="100%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" />
 
 # 👋 Hi, I'm Chibgatullah Minhaz!
 
-### 🚀 Full-Stack Developer | 💻 Frontend & MERN Stack Enthusiast | 🧑‍💻 JavaScript Expert
+### 🚀 **COO & Full-Stack Architect** | 💻 **PERN & MERN Stack Expert** | 🤖 **AI & System Design Explorer**
+
+<p align="center">
+  <a href="https://www.mspulseit.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🏢_Current_Role:_COO_@_MS_Pulse_IT-0D1117?style=for-the-badge&logo=rocket&logoColor=58A6FF&borderWidth=2&borderColor=58A6FF" alt="MS Pulse IT COO" />
+  </a>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+Enterprise+Web+Apps;PERN+%26+MERN+Stack+Specialist;Exploring+AI+Engineering+%26+System+Design;Leading+Innovation+at+MS+Pulse+IT)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ## 🧑‍💼 About Me
 
-I’m a passionate developer with a strong foundation in **JavaScript**, **React**, and **MERN stack**. I love building modern web applications and constantly strive to improve my skills through learning and collaboration.
+I am a passionate technology leader and full-stack developer with extensive expertise in building modern, high-performance web applications, SaaS platforms, and enterprise solutions. Currently driving innovation and scaling engineering operations as **COO at [MS Pulse IT](https://www.mspulseit.com/)**. 
 
-### 🔍 Currently Exploring
-
-- Working on **Real-World Projects** that solve everyday problems  
-- Learning **React.js**, **TypeScript**, **Next.js** and **Many More**  for modern front-end development  
-- Expanding my knowledge into **Backend Development** (Node.js, Express, MongoDB,Go Lang, AWS, Docker, AI Agent etc.)  
-- Helping others build **scalable and responsive web applications**  
-- Continuously improving my **problem-solving** and **clean code** practices  
+* 🔭 **Currently Building:** Multi-vendor E-Commerce platforms, ERP systems, and high-performance SaaS products.
+* 🧠 **Currently Exploring:** Advanced **System Design**, **AI Engineering**, and backend architecture in **Go**.
+* ⚡ **Core Philosophy:** Clean code, robust architectural patterns, and creating scalable digital experiences that solve real-world problems.
 
 ---
 
+## 💼 Professional Experience & Leadership
 
-## 🛠️ Skills & Technologies
+| 🧑‍💻 **Position** | 🏢 **Institute / Organization** | ⏰ **Duration** | 📍 **Location** |
+|-------------------|----------------------------------|----------------|----------------|
+| **Chief Operating Officer (COO)** | [MS Pulse IT](https://www.mspulseit.com/) | Feb 2026 – Present | Dhaka, Bangladesh |
+| **Backend Node.js Developer** | Real Time Solution | Jun 2025 – Dec 2025 | Dhaka, Bangladesh |
+| **Computer Operator** | M/S M Aziz Enterprise | Jun 2022 – Jun 2024 | Chittagong, Bangladesh |
+| **Freelance Developer** | Self-employed / Remote Clients | 2025 – Present | Worldwide 🌍 |
 
-<h3 align="left">Languages & Tools:</h3>
+---
+
+## 🛠️ Tech Stack & Ecosystem
+
+### 🌐 Frontend & UI/UX
 <p align="left">
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?logo=tanstack&logoColor=white" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/AOS-000000?logo=aos&logoColor=white" alt="AOS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/MongoDB_Compass-47A248?logo=mongodb&logoColor=white" alt="MongoDB Compass" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
-<img src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white" alt="Chrome DevTools" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="NPM" />
-<img src="https://img.shields.io/badge/GitHub_Pages-000000?logo=github&logoColor=white" alt="GitHub Pages" />
-
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=tanstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
----
+### ⚙️ Backend, Databases & Cloud (PERN / MERN / Firebase)
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
-## 🔗 Connect with Me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg?color=fff' alt='github' height='30'>](https://github.com/chibgatullahminhaz)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg?color=fff' alt='linkedin' height='30'>](https://www.linkedin.com/in/chibgatullah-minhaz-536149361/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg?color=fff' alt='facebook' height='30'>](https://www.facebook.com/chibgatullahminhaz)
+### 🔬 Architecture, AI & Dev Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/System_Design-FF6F61?style=flat-square&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Engineering-0052CC?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats & Activity
 
+<div align="center">
+
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=chibgatullahminhaz&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=chibgatullahminhaz&theme=onedark&no-frame=true&margin-w=10&margin-h=10)
 
-### 🔝 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chibgatullahminhaz&layout=compact&theme=tokyonight)
+</div>
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chibgatullahminhaz&show_icons=true&count_private=true&theme=tokyonight)
-
-## 💼 Employment History
-
-| 🧑‍💻 **Position** | 🏢 **Institute / Organization** | ⏰ **Duration** | 📍 **Location** |
-|-------------------|----------------------------------|----------------|----------------|
-| **Computer Operator** | M/S M Aziz Enterprise | Jun 2022 – Jun 2024 | Chittagong, Bangladesh |
-| **Backend Node.js Developer** | Real Time Solution | Jun 2025 – Dec 2025 | Dhaka, Bangladesh |
-| **Freelance Developer** | Self-employed / Remote Clients | 2025 – Present | Worldwide 🌍 |
-
-
----
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chibgatullahminhaz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=chibgatullahminhaz&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChibgatullahMinhaz&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
-
-
-
-🚀 **Let's Collaborate:**  
-I’m open to freelance work, contributing to exciting projects, and always looking for new opportunities to expand my knowledge and grow as a developer.
-
-📫 **Get in touch**: Feel free to reach out to me for any collaboration or to discuss ideas. I'm always excited to connect with like-minded developers.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChibgatullahMinhaz&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=12" width="100%" />
+</div>
 
 ---
+
+## 🔗 Connect with Us & Collaborate
+
+<p align="center">
+  <a href="https://github.com/chibgatullahminhaz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chibgatullah-minhaz-536149361/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/chibgatullahminhaz" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.mspulseit.com/" target="_blank"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='45' height='45'></a>
+  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='45' height='45'></a>
+  <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a>
+  <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40' height='40'></a>
+</div>
+
+---
+
+> 🚀 **Let's Build Something Exceptional:**  
+> I’m always open to discussing high-impact projects, enterprise architecture, SaaS solutions, or exciting collaboration opportunities. Feel free to reach out!
