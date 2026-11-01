@@ -22,9 +22,9 @@
 
 I am a passionate technology leader and full-stack developer with extensive expertise in building modern, high-performance web & cross-platform mobile applications, SaaS platforms, and enterprise solutions. Currently driving innovation and scaling engineering operations as **COO at [MS Pulse IT](https://www.mspulseit.com/)**. 
 
-* 🔭 **Currently Building:** Multi-vendor E-Commerce platforms, ERP systems, and high-performance SaaS products.
+* 🔭 **Currently Building:** Multi-vendor E-Commerce platforms, ERP systems, automated CI/CD pipelines, and high-performance SaaS products.
 * 🧠 **Currently Exploring:** **React Native** (Cross-Platform Mobile Apps), Advanced **System Design**, **AI Engineering**, and backend architecture in **Go**.
-* ⚡ **Core Philosophy:** Clean code, robust architectural patterns, and creating scalable digital experiences that solve real-world problems.
+* ⚡ **Core Philosophy:** Clean code, robust architectural patterns, automated DevOps, and creating scalable digital experiences that solve real-world problems.
 
 ---
 
@@ -66,8 +66,9 @@ I am a passionate technology leader and full-stack developer with extensive expe
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-### 🔬 Architecture, AI & Dev Tools
+### 🔬 Architecture, DevOps & AI Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/System_Design-FF6F61?style=flat-square&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Engineering-0052CC?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -85,7 +86,7 @@ I am a passionate technology leader and full-stack developer with extensive expe
 <div align="center">
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=chibgatullahminhaz&theme=onedark&no-frame=true&margin-w=10&margin-h=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=chibgatullahminhaz&theme=darkhub&row=1&column=7&no-bg=false&margin-w=15&margin-h=15)
 
 </div>
 
