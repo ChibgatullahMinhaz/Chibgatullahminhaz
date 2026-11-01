@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Chibgatullah Minhaz!
 
-### 🚀 **COO & Full-Stack Architect** | 💻 **PERN & MERN Stack Expert** | 🤖 **AI & System Design Explorer**
+### 🚀 **COO & Full-Stack Architect** | 💻 **PERN & MERN Stack Expert** | 📱 **Mobile & AI Explorer**
 
 <p align="center">
   <a href="https://www.mspulseit.com/" target="_blank">
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+Enterprise+Web+Apps;PERN+%26+MERN+Stack+Specialist;Exploring+AI+Engineering+%26+System+Design;Leading+Innovation+at+MS+Pulse+IT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Building+Scalable+Enterprise+Web+%26+Mobile+Apps;PERN+%26+MERN+Stack+Specialist;Exploring+React+Native%2C+AI+%26+System+Design;Leading+Innovation+at+MS+Pulse+IT)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,10 +20,10 @@
 
 ## 🧑‍💼 About Me
 
-I am a passionate technology leader and full-stack developer with extensive expertise in building modern, high-performance web applications, SaaS platforms, and enterprise solutions. Currently driving innovation and scaling engineering operations as **COO at [MS Pulse IT](https://www.mspulseit.com/)**. 
+I am a passionate technology leader and full-stack developer with extensive expertise in building modern, high-performance web & cross-platform mobile applications, SaaS platforms, and enterprise solutions. Currently driving innovation and scaling engineering operations as **COO at [MS Pulse IT](https://www.mspulseit.com/)**. 
 
 * 🔭 **Currently Building:** Multi-vendor E-Commerce platforms, ERP systems, and high-performance SaaS products.
-* 🧠 **Currently Exploring:** Advanced **System Design**, **AI Engineering**, and backend architecture in **Go**.
+* 🧠 **Currently Exploring:** **React Native** (Cross-Platform Mobile Apps), Advanced **System Design**, **AI Engineering**, and backend architecture in **Go**.
 * ⚡ **Core Philosophy:** Clean code, robust architectural patterns, and creating scalable digital experiences that solve real-world problems.
 
 ---
@@ -41,8 +41,9 @@ I am a passionate technology leader and full-stack developer with extensive expe
 
 ## 🛠️ Tech Stack & Ecosystem
 
-### 🌐 Frontend & UI/UX
+### 🌐 Frontend & Mobile Development
 <p align="left">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -125,4 +126,4 @@ I am a passionate technology leader and full-stack developer with extensive expe
 ---
 
 > 🚀 **Let's Build Something Exceptional:**  
-> I’m always open to discussing high-impact projects, enterprise architecture, SaaS solutions, or exciting collaboration opportunities. Feel free to reach out!
+> I’m always open to discussing high-impact web/mobile projects, enterprise architecture, SaaS solutions, or exciting collaboration opportunities. Feel free to reach out!
