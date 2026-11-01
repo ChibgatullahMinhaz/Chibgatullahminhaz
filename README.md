@@ -32,7 +32,7 @@ I am a passionate technology leader and full-stack developer with extensive expe
 
 | 🧑‍💻 **Position** | 🏢 **Institute / Organization** | ⏰ **Duration** | 📍 **Location** |
 |-------------------|----------------------------------|----------------|----------------|
-| **Chief Operating Officer (COO)** | [MS Pulse IT](https://www.mspulseit.com/) | Feb 2026 – Present | Dhaka, Bangladesh |
+| **Chief Operating Officer (COO)** | [MS Pulse IT](https://www.mspulseit.com/) | Feb 2026 – Present | Remote |
 | **Backend Node.js Developer** | Real Time Solution | Jun 2025 – Dec 2025 | Dhaka, Bangladesh |
 | **Computer Operator** | M/S M Aziz Enterprise | Jun 2022 – Jun 2024 | Chittagong, Bangladesh |
 | **Freelance Developer** | Self-employed / Remote Clients | 2025 – Present | Worldwide 🌍 |
